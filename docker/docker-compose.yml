@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  # MYSQL
+  testdome_mysql:
+    image: mysql:latest
+    ports:
+      - "23006:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
