@@ -1,5 +1,7 @@
 {
-  "type": "project",
+  "name": "jhibbeln/testdome",
+  "description": "description",
+  "type": "bundle",
   "license": "proprietary",
   "minimum-stability": "stable",
   "prefer-stable": true,
